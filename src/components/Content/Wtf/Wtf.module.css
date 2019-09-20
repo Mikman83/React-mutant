@@ -1,0 +1,31 @@
+.dialogs {
+  display: grid;
+  grid-template-columns: 2fr 8fr;
+  grid-gap: 10px;
+  padding: 25px 0;
+}
+
+.dialogs_list {
+  padding: 0 15px;
+  border-right: 2px solid #484047;
+}
+
+.dialog_item {
+  font-weight: bold;
+  padding: 10px;
+  background-color: #f4a460;
+  transition: all .3s;
+}
+
+.dialog_item + .active {
+  border-left: 3px solid #484047;
+  background-color: #d2691e;
+}
+
+.messages_list {
+  padding: 10px 15px;
+}
+
+.mesage_item {
+  margin-bottom: 5px;
+}

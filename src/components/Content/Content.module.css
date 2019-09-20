@@ -1,0 +1,4 @@
+.wrapper {
+    grid-area: profile;
+    background-color: rgba(148, 202, 189, 0.9);
+}

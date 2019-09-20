@@ -1,0 +1,31 @@
+
+.menu {
+  grid-area: nav;
+  background-color: #ffa773;
+  padding: 0 10px;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+}
+
+.item a {
+  display: block;
+  font-size: 18px;
+  padding-left: 5px;
+  text-decoration: none;
+  color: #800000;
+}
+
+.item:hover a {
+  font-weight: bold;
+  color: #2f4f4f;
+}
+
+.item .active {
+  font-weight: bold;
+  background-color: #cd853f;
+  color: #2f4f4f;
+  border-left: 3px solid #484047;
+}
