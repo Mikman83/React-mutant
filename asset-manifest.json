@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/React-mutant/static/css/main.a619002f.chunk.css",
+    "main.js": "/React-mutant/static/js/main.089b2cea.chunk.js",
+    "main.js.map": "/React-mutant/static/js/main.089b2cea.chunk.js.map",
+    "runtime~main.js": "/React-mutant/static/js/runtime~main.1788a067.js",
+    "runtime~main.js.map": "/React-mutant/static/js/runtime~main.1788a067.js.map",
+    "static/js/2.7f4e1161.chunk.js": "/React-mutant/static/js/2.7f4e1161.chunk.js",
+    "static/js/2.7f4e1161.chunk.js.map": "/React-mutant/static/js/2.7f4e1161.chunk.js.map",
+    "index.html": "/React-mutant/index.html",
+    "precache-manifest.f2079375ecb50d6a95fc472ed437b02a.js": "/React-mutant/precache-manifest.f2079375ecb50d6a95fc472ed437b02a.js",
+    "service-worker.js": "/React-mutant/service-worker.js",
+    "static/css/main.a619002f.chunk.css.map": "/React-mutant/static/css/main.a619002f.chunk.css.map",
+    "static/media/App.css": "/React-mutant/static/media/bg-pt.492c4649.jpg",
+    "static/media/crumbaugh.jpg": "/React-mutant/static/media/crumbaugh.99bf3227.jpg"
+  }
+}
